@@ -36,9 +36,9 @@ python analyzer.py logs/server.log
 ```text
 Failed Logins Report
 --------------------
-192.168.1.10: 5 failed attempts <--- SUSPICIOUS!
-192.168.1.15: 2 failed attempts
-192.168.1.20: 3 failed attempts <--- SUSPICIOUS!
+192.168.1.50: 4 failed attempts <--- SUSPICIOUS!
+
+172.16.4.9: 2 failed attempts
 ```
 
 ## Changing the Threshold
