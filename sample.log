@@ -1,0 +1,8 @@
+2026-08-02 18:01:12 FAILED login for user admin from 192.168.1.50
+2026-08-02 18:01:14 FAILED login for user admin from 192.168.1.50
+2026-08-02 18:01:16 FAILED login for user root from 192.168.1.50
+2026-08-02 18:01:18 FAILED login for user guest from 192.168.1.50
+2026-08-02 18:02:05 SUCCESS login for user claire from 10.0.0.7
+2026-08-02 18:03:40 FAILED login for user admin from 172.16.4.9
+2026-08-02 18:04:10 SUCCESS login for user sam from 10.0.0.12
+2026-08-02 18:05:22 FAILED login for user root from 172.16.4.9
